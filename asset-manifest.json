@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/musictog-front/static/css/main.7307b67e.chunk.css",
+    "main.js": "/musictog-front/static/js/main.f961f16a.chunk.js",
+    "main.js.map": "/musictog-front/static/js/main.f961f16a.chunk.js.map",
+    "runtime-main.js": "/musictog-front/static/js/runtime-main.8cd8ac80.js",
+    "runtime-main.js.map": "/musictog-front/static/js/runtime-main.8cd8ac80.js.map",
+    "static/js/2.81808673.chunk.js": "/musictog-front/static/js/2.81808673.chunk.js",
+    "static/js/2.81808673.chunk.js.map": "/musictog-front/static/js/2.81808673.chunk.js.map",
+    "index.html": "/musictog-front/index.html",
+    "static/css/main.7307b67e.chunk.css.map": "/musictog-front/static/css/main.7307b67e.chunk.css.map",
+    "static/js/2.81808673.chunk.js.LICENSE.txt": "/musictog-front/static/js/2.81808673.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/musictog-front/static/media/bg.a4f92bea.gif",
+    "static/media/glogo.ed70194a.png": "/musictog-front/static/media/glogo.ed70194a.png",
+    "static/media/loading.d377d64e.gif": "/musictog-front/static/media/loading.d377d64e.gif",
+    "static/media/logo.0574005e.png": "/musictog-front/static/media/logo.0574005e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cd8ac80.js",
+    "static/js/2.81808673.chunk.js",
+    "static/css/main.7307b67e.chunk.css",
+    "static/js/main.f961f16a.chunk.js"
+  ]
+}
